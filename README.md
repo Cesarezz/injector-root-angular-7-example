@@ -3,7 +3,7 @@
 ### Installation
 
 ```sh
-$ cd injector-root-example
+$ cd injector-root-angular-7-example
 $ npm install
 $ ng serve -o
 ```
